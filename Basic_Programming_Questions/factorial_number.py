@@ -10,7 +10,7 @@ def factorial(num):
     return num * factorial(num - 1)  #recursion method
 
 
-#using loop
+#using loop to clacu
 def facto(num):
     res = 1
     if num == 0:
